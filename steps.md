@@ -44,7 +44,7 @@ Done!
 # Step 3 - Setup
 Setup your device like normal
 
-You need to re-enable debugging by running `##33284##
+You need to re-enable debugging by running ##33284##
 
 For good measure, restart your phone.
 
