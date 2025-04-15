@@ -1,4 +1,4 @@
-First off, you're going to need to enable ADB. That is done by entering *#*#33284#*#*. Once you have entered that and ADB is enabled, we can start the fastboot.
+First off, you're going to need to enable ADB. That is done by entering `*#*#33284#*#*`. Once you have entered that and ADB is enabled, we can start the fastboot.
 
 # Step 1 - Fastboot
 Download the Pre-Reqs. . Download either neutronscott recovery, or magisk and insert it in the ADB Directory
@@ -44,7 +44,7 @@ Done!
 # Step 3 - Setup
 Setup your device like normal
 
-You need to re-enable debugging by running ##33284##
+You need to re-enable debugging by running `*#*#33284*#*#`
 
 For good measure, restart your phone.
 
