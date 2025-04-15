@@ -5,3 +5,5 @@ WE, as in HSBERG, NeutronScott, and Myself do _NOT_ take responsibility of any e
 
 **PLEASE NOTE I DID NOT MAKE THIS! All credits go to the original authors (NeutronScott and HSBERG)**
 
+[Click here to go to get started](/steps.md)
+
