@@ -1,3 +1,4 @@
+<!-- This is for the HTML version only! -->
 # Pre-Reqs:
 In order to install anything onto the Flip2, you're going to need a few things.
 
